@@ -9,7 +9,7 @@ confinement: strict # use 'strict' once you have the right plugs and slots
 
 apps:
   bmonitor:
-    command:  bin/vtop 
+    command:  bin/vtop.js 
 
 parts:
   vtop:
