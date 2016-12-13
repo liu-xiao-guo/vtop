@@ -33,7 +33,7 @@
   "dependencies": {
     "blessed": "0.1.81",
     "commander": "2.7.1",
-    "drawille": "1.0.0",
+    "drawille": "^1.0.0",
     "glob": "5.0.2",
     "husky": "^0.11.9",
     "os-utils": "0.0.14",
